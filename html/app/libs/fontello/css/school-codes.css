@@ -1,0 +1,6 @@
+
+.sc-gallery:before { content: '\e800'; } /* '' */
+.sc-envelope:before { content: '\e801'; } /* '' */
+.sc-mobile-phone:before { content: '\e802'; } /* '' */
+.sc-external-link-symbol:before { content: '\e803'; } /* '' */
+.sc-map-pin-marked:before { content: '\e804'; } /* '' */
